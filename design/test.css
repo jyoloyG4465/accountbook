@@ -1,0 +1,91 @@
+h1{
+
+    padding: 1rem  3rem; 
+    color: #fff;
+    border-radius: 100vh;
+    background-image: -webkit-gradient(linear, right top, left top, from(#9be15d), to(#00e3ae));
+    background-image: -webkit-linear-gradient(right, #9be15d 0%, #00e3ae 100%);
+    background-image: linear-gradient(to left, #9be15d 0%, #00e3ae 100%);
+
+}
+
+p.text{
+    text-align: center;
+    font-size: 24px;
+}
+
+div.inputbox{
+    background-image: url("wood.jpg");
+    background-size: 1300px;
+    padding: 1px 30px 10px 30px;
+}
+
+h2{
+    color: #000;
+    font-size: 30px;
+
+}
+
+div.text{
+    font-size: 20px;
+    display: inline-block;
+}
+
+
+div.button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+table.table{
+    background-color: #cdefff;  
+    margin: auto;
+    border-collapse: separate;
+    border-spacing:3px;
+    table-layout:  fixed;
+    width: 800px;
+    text-align:center;
+    border: 1px solid;
+}
+
+th,tr,td{
+    border: 1px solid;
+}
+
+table.table2{
+    background-color: #cdefff;  
+    margin: auto;
+    border-collapse: separate;
+    border-spacing:3px;
+    table-layout:  fixed;
+    width: 800px;
+    text-align:center;
+    border: 1px solid;
+}
+
+table.table3{
+    background-color: #cdefff;  
+    margin: auto;
+    border-collapse: separate;
+    border-spacing:3px;
+    table-layout:  fixed;
+    width: 800px;
+    text-align:center;
+    border: 1px solid;
+}
+
+div.footer{
+    margin-top: 20px;
+    background-color: #00e3ae;
+}
+
+div.message{
+    text-align: center;
+    font-size: 18px;
+}
+
+div.copyright{
+    text-align: right;
+    font-size: 12px;
+}
